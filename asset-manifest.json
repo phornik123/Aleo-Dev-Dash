@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ca1cc80c.css",
+    "main.js": "/static/js/main.c8c35acc.js",
+    "static/media/ibm-plex-mono-latin-600-normal.woff2": "/static/media/ibm-plex-mono-latin-600-normal.127766ed59632429f346.woff2",
+    "static/media/ibm-plex-mono-latin-500-normal.woff2": "/static/media/ibm-plex-mono-latin-500-normal.96a9461565b9efc699b9.woff2",
+    "static/media/ibm-plex-mono-latin-400-normal.woff2": "/static/media/ibm-plex-mono-latin-400-normal.57685f70bce71bc2281d.woff2",
+    "static/media/ibm-plex-mono-latin-ext-600-normal.woff2": "/static/media/ibm-plex-mono-latin-ext-600-normal.36ca2d8d9c623c5f3c24.woff2",
+    "static/media/ibm-plex-mono-latin-ext-500-normal.woff2": "/static/media/ibm-plex-mono-latin-ext-500-normal.44b0d9fc188883de7bfd.woff2",
+    "static/media/ibm-plex-mono-latin-ext-400-normal.woff2": "/static/media/ibm-plex-mono-latin-ext-400-normal.4eb454f797fc14173977.woff2",
+    "static/media/ibm-plex-mono-latin-600-normal.woff": "/static/media/ibm-plex-mono-latin-600-normal.284e9c171435305cc92b.woff",
+    "static/media/ibm-plex-mono-latin-500-normal.woff": "/static/media/ibm-plex-mono-latin-500-normal.1261bd3b079b2e71d961.woff",
+    "static/media/ibm-plex-mono-latin-400-normal.woff": "/static/media/ibm-plex-mono-latin-400-normal.a249eaef7f811a5b3ef8.woff",
+    "static/media/ibm-plex-mono-latin-ext-600-normal.woff": "/static/media/ibm-plex-mono-latin-ext-600-normal.272ccc689f7acdaa7901.woff",
+    "static/media/ibm-plex-mono-latin-ext-500-normal.woff": "/static/media/ibm-plex-mono-latin-ext-500-normal.f15622133664d5caaa6f.woff",
+    "static/media/ibm-plex-mono-latin-ext-400-normal.woff": "/static/media/ibm-plex-mono-latin-ext-400-normal.9e8e59cd24901250b690.woff",
+    "static/media/ibm-plex-mono-cyrillic-600-normal.woff2": "/static/media/ibm-plex-mono-cyrillic-600-normal.41d2c5a43d7e5c44faf0.woff2",
+    "static/media/ibm-plex-mono-cyrillic-500-normal.woff2": "/static/media/ibm-plex-mono-cyrillic-500-normal.bca034043b45d2d0119e.woff2",
+    "static/media/ibm-plex-mono-cyrillic-400-normal.woff2": "/static/media/ibm-plex-mono-cyrillic-400-normal.6ac19c59b273fe60dfcc.woff2",
+    "static/media/ibm-plex-mono-cyrillic-ext-600-normal.woff2": "/static/media/ibm-plex-mono-cyrillic-ext-600-normal.b3a92cadf972e3f3cf0b.woff2",
+    "static/media/ibm-plex-mono-cyrillic-600-normal.woff": "/static/media/ibm-plex-mono-cyrillic-600-normal.66f0362e93c59d65870f.woff",
+    "static/media/ibm-plex-mono-cyrillic-400-normal.woff": "/static/media/ibm-plex-mono-cyrillic-400-normal.c348deac43fa5748edea.woff",
+    "static/media/ibm-plex-mono-cyrillic-500-normal.woff": "/static/media/ibm-plex-mono-cyrillic-500-normal.13affe670a586e87a83a.woff",
+    "static/media/ibm-plex-mono-cyrillic-ext-400-normal.woff2": "/static/media/ibm-plex-mono-cyrillic-ext-400-normal.bbad4d1918b96229653b.woff2",
+    "static/media/ibm-plex-mono-cyrillic-ext-500-normal.woff2": "/static/media/ibm-plex-mono-cyrillic-ext-500-normal.3a3b8753f8965373e129.woff2",
+    "static/media/ibm-plex-mono-vietnamese-600-normal.woff2": "/static/media/ibm-plex-mono-vietnamese-600-normal.10211ac4ebbd41bab188.woff2",
+    "static/media/ibm-plex-mono-vietnamese-500-normal.woff2": "/static/media/ibm-plex-mono-vietnamese-500-normal.25de5e311186ffe4f5bd.woff2",
+    "static/media/ibm-plex-mono-vietnamese-400-normal.woff2": "/static/media/ibm-plex-mono-vietnamese-400-normal.530da8a08402532b9ded.woff2",
+    "static/media/ibm-plex-mono-cyrillic-ext-400-normal.woff": "/static/media/ibm-plex-mono-cyrillic-ext-400-normal.18dd695e5b1103c22279.woff",
+    "static/media/ibm-plex-mono-cyrillic-ext-600-normal.woff": "/static/media/ibm-plex-mono-cyrillic-ext-600-normal.04e359b8939abc810d75.woff",
+    "static/media/ibm-plex-mono-cyrillic-ext-500-normal.woff": "/static/media/ibm-plex-mono-cyrillic-ext-500-normal.a3945d1be5b1a6130a0c.woff",
+    "static/media/ibm-plex-mono-vietnamese-600-normal.woff": "/static/media/ibm-plex-mono-vietnamese-600-normal.211710ba272a9c2734c5.woff",
+    "static/media/ibm-plex-mono-vietnamese-400-normal.woff": "/static/media/ibm-plex-mono-vietnamese-400-normal.442fb799b2a313edbc10.woff",
+    "static/media/ibm-plex-mono-vietnamese-500-normal.woff": "/static/media/ibm-plex-mono-vietnamese-500-normal.d2e7e0ed076e49d5cd68.woff",
+    "index.html": "/index.html",
+    "main.ca1cc80c.css.map": "/static/css/main.ca1cc80c.css.map",
+    "main.c8c35acc.js.map": "/static/js/main.c8c35acc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca1cc80c.css",
+    "static/js/main.c8c35acc.js"
+  ]
+}
